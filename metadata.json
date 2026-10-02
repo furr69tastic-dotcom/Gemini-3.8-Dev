@@ -1,0 +1,11 @@
+{
+  "name": "Gemini 3.8 Android - Live & Extended",
+  "description": "Official duplicate of the Android Gemini application for the Gemini 3.8 model series, featuring Gemini Live voice conversations, Gemini 3.8 Pro Extended Thinking, multimodal reasoning, and Android Material 3 design.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
