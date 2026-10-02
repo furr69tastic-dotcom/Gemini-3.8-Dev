@@ -1,7 +1,3 @@
-Understood. I have corrected the document to a standard `README.md` format, tailored specifically for the `Gemini-3.8-Dev` repository, including the Android installation instructions we discussed.
-
-***
-
 # Gemini-3.8-Dev
 
 Welcome to the **Gemini-3.8-Dev** repository. This project serves as an experimental workspace for testing and tracking development cycles for Gemini-3.8 integration.
