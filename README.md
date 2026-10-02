@@ -55,5 +55,3 @@ To ensure consistency across different test cycles, please adhere to the followi
 This project is for experimental/development use. Please check the `LICENSE` file for details on usage.
 
 *** 
-
-*Tip: If you encounter permission issues while running scripts on Android, use `chmod -R 755 .` to ensure all execution bits are correctly set for the Termux user.*
